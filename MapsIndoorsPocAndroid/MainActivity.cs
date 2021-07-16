@@ -67,17 +67,17 @@ namespace MapsIndoorsPocAndroid
 
         public void OnMapReady(GoogleMap googleMap)
         {
-            // Intentionally blank. This solution just demonstrates a problem with building when referencing the MapsIndooraAndroid lib.
+            // Intentionally blank. This solution just demonstrates a problem with building when referencing the MapsIndoorsAndroid lib.
         }
 
         void InitMapControl(Android.Views.View view)
         {
-            // Intentionally blank. This solution just demonstrates a problem with building when referencing the MapsIndooraAndroid lib.
+            // Intentionally blank. This solution just demonstrates a problem with building when referencing the MapsIndoorsAndroid lib.
         }
 
         public void OnLoadingDataReady(MIError p0)
         {
-            // Intentionally blank. This solution just demonstrates a problem with building when referencing the MapsIndooraAndroid lib.
+            // Intentionally blank. This solution just demonstrates a problem with building when referencing the MapsIndoorsAndroid lib.
         }
     }
 }
